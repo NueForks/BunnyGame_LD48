@@ -1,0 +1,1128 @@
+fileFormatVersion: 2
+guid: 8a4bcfa2b016a8345a173005228008fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -224037865335285518
+    second: S_perks_contour
+  - first:
+      213: -618047474224372177
+    second: S_perks_arrow
+  - first:
+      213: -5947543844925510943
+    second: S_perks_2
+  - first:
+      213: -6696961490735456614
+    second: S_perks_3
+  - first:
+      213: -3823403517485585252
+    second: S_perks_4
+  - first:
+      213: 8866476393261047171
+    second: S_perks_5
+  - first:
+      213: 4665305610916223770
+    second: S_perks_6
+  - first:
+      213: 141871116688936845
+    second: S_perks_7
+  - first:
+      213: 350753600672213631
+    second: S_perks_8
+  - first:
+      213: -3485467532053410634
+    second: S_perks_9
+  - first:
+      213: -8021978600373883706
+    second: S_perks_10
+  - first:
+      213: -3092600772041286184
+    second: S_perks_11
+  - first:
+      213: 1376625338147996560
+    second: S_perks_12
+  - first:
+      213: 5595084098324592932
+    second: S_perks_13
+  - first:
+      213: -8020178898472546683
+    second: S_perks_14
+  - first:
+      213: 4888161175316413089
+    second: S_perks_15
+  - first:
+      213: -384839050110424367
+    second: S_perks_16
+  - first:
+      213: -6817901639213603785
+    second: S_perks_17
+  - first:
+      213: -511985669040153222
+    second: S_perks_18
+  - first:
+      213: 8769085452251315842
+    second: S_perks_19
+  - first:
+      213: -3086948332536134427
+    second: S_perks_20
+  - first:
+      213: 7905167743405740032
+    second: S_perks_21
+  - first:
+      213: -3590677948346545883
+    second: S_perks_22
+  - first:
+      213: -7210142353032472063
+    second: S_perks_23
+  - first:
+      213: -2607780397590795738
+    second: S_perks_24
+  - first:
+      213: 8503070572931562201
+    second: S_perks_25
+  - first:
+      213: -5930731324152030428
+    second: S_perks_26
+  - first:
+      213: 4383324947784129091
+    second: S_perks_27
+  - first:
+      213: 5357690661695546482
+    second: S_perks_28
+  - first:
+      213: -4829153487253832610
+    second: S_perks_29
+  - first:
+      213: -762272273855950303
+    second: S_perks_30
+  - first:
+      213: 5929334289215204065
+    second: S_perks_31
+  - first:
+      213: 2143956075591825142
+    second: S_perks_32
+  - first:
+      213: -8798387991488277893
+    second: S_perks_33
+  - first:
+      213: 5616530926641384722
+    second: S_perks_34
+  - first:
+      213: -138373697714705009
+    second: S_perks_35
+  - first:
+      213: -6778969246282950005
+    second: S_perks_36
+  - first:
+      213: -4672228918426420502
+    second: S_perks_37
+  - first:
+      213: -9065984442059177862
+    second: S_perks_38
+  - first:
+      213: 4619763683096607462
+    second: S_perks_39
+  - first:
+      213: -1217951254382631695
+    second: S_perks_arrows
+  - first:
+      213: -2340519330125139797
+    second: S_perks_elevatorarrow
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: S_perks_contour
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 420
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8147c9fbe04ecf0800000000000000
+      internalID: -224037865335285518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_arrow
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 430
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f266784c8114c67f0800000000000000
+      internalID: -618047474224372177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 346
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea672d6264167da0800000000000000
+      internalID: -5947543844925510943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 346
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e1e36910d9f03a0800000000000000
+      internalID: -6696961490735456614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 279
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cea4312ca80fac0800000000000000
+      internalID: -3823403517485585252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 279
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d16b59d4d0c0b70800000000000000
+      internalID: 8866476393261047171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 346
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b5c4b3cbe7eb040800000000000000
+      internalID: 4665305610916223770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 346
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fc12a670708f100800000000000000
+      internalID: 141871116688936845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 346
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa1cb9a802ed400800000000000000
+      internalID: 350753600672213631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 346
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc8cc31fb121afc0800000000000000
+      internalID: -3485467532053410634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 279
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccede817f43ca090800000000000000
+      internalID: -8021978600373883706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 279
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd516eabffd415d0800000000000000
+      internalID: -3092600772041286184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 279
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0930d1d8371ca1310800000000000000
+      internalID: 1376625338147996560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 279
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429f219e75bb5ad40800000000000000
+      internalID: 5595084098324592932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 212
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ec579d8c992b090800000000000000
+      internalID: -8020178898472546683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 212
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa379bb0bc36d340800000000000000
+      internalID: 4888161175316413089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 212
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da28724ce6c8aaf0800000000000000
+      internalID: -384839050110424367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 212
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734ae19f492f161a0800000000000000
+      internalID: -6817901639213603785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 212
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d55c22fbf05e8f0800000000000000
+      internalID: -511985669040153222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_19
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 212
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e3c7a12cc02b970800000000000000
+      internalID: 8769085452251315842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 144
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4033fc8d4f825d0800000000000000
+      internalID: -3086948332536134427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 144
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0005393ed2cc4bd60800000000000000
+      internalID: 7905167743405740032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 77
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529c9f12e695b2ec0800000000000000
+      internalID: -3590677948346545883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 77
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a108b1bbd60fb90800000000000000
+      internalID: -7210142353032472063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 144
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aaf558b8d4fcbd0800000000000000
+      internalID: -2607780397590795738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 77
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dab9a782a9f00670800000000000000
+      internalID: 8503070572931562201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 144
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bd2a5784fc1bda0800000000000000
+      internalID: -5930731324152030428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 144
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ad7cfe0d2b4dc30800000000000000
+      internalID: 4383324947784129091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 144
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2746ac245475a5a40800000000000000
+      internalID: 5357690661695546482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 77
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c75624d766bfcb0800000000000000
+      internalID: -4829153487253832610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 77
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122dfa6d76ddb65f0800000000000000
+      internalID: -762272273855950303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_31
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 77
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea273ffe1a394250800000000000000
+      internalID: 5929334289215204065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 10
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6f0bb01bcd0cd10800000000000000
+      internalID: 2143956075591825142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 10
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b725743dcb8d5e580800000000000000
+      internalID: -8798387991488277893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d8470ce1de1fd40800000000000000
+      internalID: 5616530926641384722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_35
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 10
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d2575ead5641ef0800000000000000
+      internalID: -138373697714705009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_36
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 10
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ad10413634ce1a0800000000000000
+      internalID: -6778969246282950005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_37
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 10
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeab2ef9d88e82fb0800000000000000
+      internalID: -4672228918426420502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 426
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7048dffe272f2280800000000000000
+      internalID: -9065984442059177862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 462
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea393dd792bc1040800000000000000
+      internalID: 4619763683096607462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_arrows
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 433
+        width: 108
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f428c089c7f81fe0800000000000000
+      internalID: -1217951254382631695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_perks_elevatorarrow
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 436
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0b4f1e11ec48fd0800000000000000
+      internalID: -2340519330125139797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

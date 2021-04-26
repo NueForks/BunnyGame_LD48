@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42da2c73f8156694291949abb14eead5, type: 3}
+  m_Name: MS_D60_Torch B
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 29150762788836637, guid: 91d551bd205c4bb419fcf3fc5c25fe98, type: 3}
+    - {fileID: 29150762788836637, guid: fbc785900df5de146bf6581d86568800, type: 3}
+    - {fileID: 29150762788836637, guid: 8508959a24cb80048bc2aba2cb947422, type: 3}
+    - {fileID: 29150762788836637, guid: bf72e8e4d47a6734296bae02d4d5f942, type: 3}
+    - {fileID: 29150762788836637, guid: 16c769365781f524a8ba43aa6a4091be, type: 3}
+    - {fileID: 29150762788836637, guid: 785268bbc2dd3144ba98714d61f94e5c, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: structure
+      Entry: 7
+      Data: 0|UnityEngine.GameObject[,], UnityEngine.CoreModule
+    - Name: 
+      Entry: 12
+      Data: 7
+    - Name: ranks
+      Entry: 1
+      Data: 7|1
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  weight: 0.5
+  elevatorLeft: 0
+  elevatorRight: 0
+  mirror: 1

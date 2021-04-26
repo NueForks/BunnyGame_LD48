@@ -1,0 +1,1728 @@
+fileFormatVersion: 2
+guid: 77f8fe940776a13408bb6966a3721d3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1558253001894266839
+    second: S_A_mine_left
+  - first:
+      213: -8555662705969179490
+    second: S_A_mine_right
+  - first:
+      213: -7491347993061797624
+    second: S_A_block_dirt
+  - first:
+      213: -6196109752754451714
+    second: S_A_block_stone
+  - first:
+      213: 1104177158881508781
+    second: S_A_block_obsidian
+  - first:
+      213: -1940152426695421860
+    second: S_A_block_unbreak
+  - first:
+      213: -8724265784248275043
+    second: S_A_block_monster
+  - first:
+      213: -5293338519715607460
+    second: S_A_bomb
+  - first:
+      213: -6537236923526215685
+    second: S_A_carrot_dirt
+  - first:
+      213: -6612420399650223512
+    second: S_A_carrot_rock
+  - first:
+      213: 7082095856046096707
+    second: S_A_carrot_obsidian
+  - first:
+      213: 1022570475980619539
+    second: S_A_gold_4
+  - first:
+      213: 7029702331368516125
+    second: S_A_gold_3
+  - first:
+      213: 6834877961089893685
+    second: S_A_gold_2
+  - first:
+      213: -2680865275718032222
+    second: S_A_ruby_2
+  - first:
+      213: -7736849073595610843
+    second: S_A_ruby_1
+  - first:
+      213: 6770254804127879650
+    second: S_A_emerald_1
+  - first:
+      213: -4170551622887308516
+    second: S_A_emerald_2
+  - first:
+      213: 8149940546600052351
+    second: S_A_emerald_3
+  - first:
+      213: 1252076160738409559
+    second: S_A_diamond
+  - first:
+      213: -3594494035889843379
+    second: S_A_torch_obsi
+  - first:
+      213: -7743816347205460561
+    second: S_A_torch_rock
+  - first:
+      213: -1160358180541225707
+    second: S_A_torch_dirt
+  - first:
+      213: -5932414902465577431
+    second: S_A_chest
+  - first:
+      213: 8909491579425714958
+    second: S_A_bag
+  - first:
+      213: -7805839474777416330
+    second: S_A_bag_frame
+  - first:
+      213: -1714834792839813971
+    second: S_A_bag_frame_in
+  - first:
+      213: 7878334823394089222
+    second: S_A_depth_carrot
+  - first:
+      213: 2790995915828755858
+    second: S_A_depth_title
+  - first:
+      213: 8669019417811459621
+    second: S_A_depth_rope
+  - first:
+      213: -6073314559768118703
+    second: S_A_torchUI
+  - first:
+      213: 197022036374675026
+    second: S_A_torchUI_flame_1
+  - first:
+      213: 8250709623773783663
+    second: S_A_torchUI_flame_2
+  - first:
+      213: 6602925429775383625
+    second: S_A_torchUI_flame_3
+  - first:
+      213: 1450177636462073313
+    second: S_A_torchUI_flame_4
+  - first:
+      213: -2652486182304508609
+    second: S_A_UI_frame_small
+  - first:
+      213: -9122908080352341368
+    second: S_A_UI_frame_small_bg
+  - first:
+      213: 4669974571444976996
+    second: S_A_UI_frame_small_fill
+  - first:
+      213: -4636162877227435602
+    second: S_A_health_heart
+  - first:
+      213: -590312653055278228
+    second: S_A_health_frame
+  - first:
+      213: -6769801836864546798
+    second: S_A_health_frame_bg
+  - first:
+      213: -1723004934120423720
+    second: S_A_health_frame_fill
+  - first:
+      213: -1196109869430407939
+    second: S_A_frame_battle
+  - first:
+      213: 3722686965041172410
+    second: S_A_charaTorch_flame1
+  - first:
+      213: -420860528575292078
+    second: S_A_charaTorch_flame2
+  - first:
+      213: 2587727490001005426
+    second: S_A_charaTorch_flame3
+  - first:
+      213: 6297231788761246161
+    second: S_A_charaTorch_flame4
+  - first:
+      213: -4402676236282497098
+    second: S_A_charaTorch
+  - first:
+      213: 3490632044179564915
+    second: S_A_chara_pickaxe
+  - first:
+      213: -1065863801138809868
+    second: S_A_chara_skull
+  - first:
+      213: 3103261704330663105
+    second: S_A_shadow_small
+  - first:
+      213: 7492339920414423940
+    second: S_A_chara_shadow
+  - first:
+      213: 2449716535073158068
+    second: S_A_chara_idle
+  - first:
+      213: -5094113630635405622
+    second: S_A_chara_mine
+  - first:
+      213: 4965614325705415055
+    second: S_A_chara_hit
+  - first:
+      213: -8782312131409238276
+    second: S_A_elevator
+  - first:
+      213: 6247923733302543396
+    second: S_A_elevator_bg
+  - first:
+      213: 9120906040604305620
+    second: S_A_explo_1
+  - first:
+      213: -8512474502113450147
+    second: S_A_explo_2
+  - first:
+      213: -3357597758535196394
+    second: S_A_explo_3
+  - first:
+      213: -5804689574634877930
+    second: S_A_explo_4
+  - first:
+      213: 21605207563747591
+    second: S_A_UI_gems_ruby
+  - first:
+      213: -64898802216972894
+    second: S_A_UI_gems_diamonds
+  - first:
+      213: -463801370156681469
+    second: S_A_UI_gems_emerald
+  - first:
+      213: -5887312236511797132
+    second: S_A_UI_gems_gold
+  - first:
+      213: -6300633335150519115
+    second: S_A_bubble
+  - first:
+      213: 6363322261912485978
+    second: S_A_elevatorPole
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: S_A_mine_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 199
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 173, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7081869d600a510800000000000000
+      internalID: 1558253001894266839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_mine_right
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 214
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 172, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9456a8491e244980800000000000000
+      internalID: -8555662705969179490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_block_dirt
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 919
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80157b0f0b2690890800000000000000
+      internalID: -7491347993061797624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_block_stone
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 919
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaccbd120ff20aa0800000000000000
+      internalID: -6196109752754451714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_block_obsidian
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 919
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad7b3c9643d25f00800000000000000
+      internalID: 1104177158881508781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_block_unbreak
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 919
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5015b4b5a13315e0800000000000000
+      internalID: -1940152426695421860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_block_monster
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 919
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f69cb0e7e2de680800000000000000
+      internalID: -8724265784248275043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_bomb
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 842
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c857069a84a86b0800000000000000
+      internalID: -5293338519715607460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_carrot_dirt
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 847
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf707a067a11745a0800000000000000
+      internalID: -6537236923526215685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_carrot_rock
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 847
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a4d4d3ea6fb34a0800000000000000
+      internalID: -6612420399650223512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_carrot_obsidian
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 847
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341c4e498a8a84260800000000000000
+      internalID: 7082095856046096707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_gold_4
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 850
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f70aa1e66e03e00800000000000000
+      internalID: 1022570475980619539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_gold_3
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 848
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aa4f186058e8160800000000000000
+      internalID: 7029702331368516125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_gold_2
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 852
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c8e9fa4d5ade50800000000000000
+      internalID: 6834877961089893685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_ruby_2
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 847
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4a52e4c37abcad0800000000000000
+      internalID: -2680865275718032222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_ruby_1
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 775
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529068752c031a490800000000000000
+      internalID: -7736849073595610843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_emerald_1
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 777
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e19ceebfd6c4fd50800000000000000
+      internalID: 6770254804127879650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_emerald_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 781
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c138f5045693f16c0800000000000000
+      internalID: -4170551622887308516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_emerald_3
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 776
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7626a43fb76a1170800000000000000
+      internalID: 8149940546600052351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_diamond
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 777
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c3c8862a4406110800000000000000
+      internalID: 1252076160738409559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_torch_obsi
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 774
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43968308bacd1ec0800000000000000
+      internalID: -3594494035889843379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_torch_rock
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 773
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad94fa8f00788490800000000000000
+      internalID: -7743816347205460561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_torch_dirt
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 772
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5152f94f16495efe0800000000000000
+      internalID: -1160358180541225707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_chest
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 677
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e3e46d314dbada0800000000000000
+      internalID: -5932414902465577431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_bag
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 683
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03f001136fd4ab70800000000000000
+      internalID: 8909491579425714958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_bag_frame
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 682
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 20, z: 16, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d9b24da561ca390800000000000000
+      internalID: -7805839474777416330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_bag_frame_in
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 695
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da46d4c67dea338e0800000000000000
+      internalID: -1714834792839813971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_depth_carrot
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 691
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6099ef9d7c7755d60800000000000000
+      internalID: 7878334823394089222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_depth_title
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 694
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29df9848ffb9bb620800000000000000
+      internalID: 2790995915828755858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_depth_rope
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 704
+        width: 17
+        height: 17
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e9d95ea3b8e4870800000000000000
+      internalID: 8669019417811459621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_torchUI
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 598
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a30dfe59047bba0800000000000000
+      internalID: -6073314559768118703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_torchUI_flame_1
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 608
+        width: 51
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e590b8f76fbb200800000000000000
+      internalID: 197022036374675026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_torchUI_flame_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 608
+        width: 51
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66eeed40b8608270800000000000000
+      internalID: 8250709623773783663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_torchUI_flame_3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 608
+        width: 51
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cb720d1bd42ab50800000000000000
+      internalID: 6602925429775383625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_torchUI_flame_4
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 608
+        width: 51
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5998280e0102410800000000000000
+      internalID: 1450177636462073313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_UI_frame_small
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 600
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 13, z: 10, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f359b14eed9703bd0800000000000000
+      internalID: -2652486182304508609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_UI_frame_small_bg
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 602
+        width: 17
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 7, z: 8, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882de08af6be46180800000000000000
+      internalID: -9122908080352341368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_UI_frame_small_fill
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 603
+        width: 17
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 6, y: 14, z: 6, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46db51151251fc040800000000000000
+      internalID: 4669974571444976996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_health_heart
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 522
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea971063d6a09afb0800000000000000
+      internalID: -4636162877227435602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_health_frame
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 532
+        width: 122
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 16, z: 15, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63c83805c9cec7f0800000000000000
+      internalID: -590312653055278228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_health_frame_bg
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 120
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 39, y: 9, z: 65, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218d6e9e815dc02a0800000000000000
+      internalID: -6769801836864546798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_health_frame_fill
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 475
+        width: 38
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 12, y: 12, z: 21, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deb18b2428a618e0800000000000000
+      internalID: -1723004934120423720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_frame_battle
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 461
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 23, z: 32, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcf2483960966fe0800000000000000
+      internalID: -1196109869430407939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_charaTorch_flame1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 541
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf81413214a9a330800000000000000
+      internalID: 3722686965041172410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_charaTorch_flame2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 541
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d594e349dc82af0800000000000000
+      internalID: -420860528575292078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_charaTorch_flame3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 541
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27be509117479e320800000000000000
+      internalID: 2587727490001005426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_charaTorch_flame4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 541
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9696d92f2446750800000000000000
+      internalID: 6297231788761246161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_charaTorch
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 496
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0.749447, y: 0.12755306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7f35b1a4d86e2c0800000000000000
+      internalID: -4402676236282497098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_chara_pickaxe
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 489
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.2474631, y: 0.22501448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3792bea9957317030800000000000000
+      internalID: 3490632044179564915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_chara_skull
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 471
+        width: 56
+        height: 69
+      alignment: 9
+      pivot: {x: 0.3388868, y: -0.004997364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f37c22258a4531f0800000000000000
+      internalID: -1065863801138809868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_shadow_small
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 456
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4d3bb0410011b20800000000000000
+      internalID: 3103261704330663105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_chara_shadow
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 473
+        width: 65
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bb7c426732af760800000000000000
+      internalID: 7492339920414423940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_chara_idle
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 472
+        width: 77
+        height: 93
+      alignment: 9
+      pivot: {x: 0.36804911, y: 0.040272374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3bf61a5342ff120800000000000000
+      internalID: 2449716535073158068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_chara_mine
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 376
+        width: 80
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38306427, y: -0.004948934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace408884a21e49b0800000000000000
+      internalID: -5094113630635405622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_chara_hit
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 379
+        width: 81
+        height: 69
+      alignment: 9
+      pivot: {x: 0.3915074, y: 0.03164142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8913479be769e440800000000000000
+      internalID: 4965614325705415055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_elevator
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 5
+        width: 143
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6afbca5a5fe1680800000000000000
+      internalID: -8782312131409238276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_elevator_bg
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 26
+        width: 124
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4240b33588515b650800000000000000
+      internalID: 6247923733302543396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_explo_1
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 145
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d82fe328b7f39e70800000000000000
+      internalID: 9120906040604305620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_explo_2
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 147
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5725f59a8d9dd980800000000000000
+      internalID: -8512474502113450147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_explo_3
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 8
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611acdfb0aa6761d0800000000000000
+      internalID: -3357597758535196394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_explo_4
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c89702699917fa0800000000000000
+      internalID: -5804689574634877930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_UI_gems_ruby
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 745
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701c22262d1cc4000800000000000000
+      internalID: 21605207563747591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_UI_gems_diamonds
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 744
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad428b12ee691ff0800000000000000
+      internalID: -64898802216972894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_UI_gems_emerald
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 746
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b8757c1f3099f0800000000000000
+      internalID: -463801370156681469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_UI_gems_gold
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 744
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47067e496b01c4ea0800000000000000
+      internalID: -5887312236511797132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_bubble
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 682
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 29, y: 23, z: 27, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc5e562d57af88a0800000000000000
+      internalID: -6300633335150519115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_A_elevatorPole
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 299
+        width: 40
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5001a402ef0f4850800000000000000
+      internalID: 6363322261912485978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

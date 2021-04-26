@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94f155c50e9bb274d90476bd62c79621, type: 3}
+  m_Name: Enc_D60_C
+  m_EditorClassIdentifier: 
+  weight: 1
+  enemies:
+  - delay: 0
+    enemyPrefab: {fileID: 3941333257540408046, guid: ae9b7582ab21b674aa87cac862e6f01e, type: 3}
+    startCell: {x: 6, y: 1}
+  - delay: 1
+    enemyPrefab: {fileID: 3941333257540408046, guid: 62ca3cf7d442cc945a2c6afab4080903, type: 3}
+    startCell: {x: 0, y: 0}
+  goldGain: 18
+  emeraldGain: 0
+  rubyGain: 0

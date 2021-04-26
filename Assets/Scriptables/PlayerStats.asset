@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c06350efe8981d478246022dd9197aa, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  gold: 0
+  emerald: 0
+  ruby: 0
+  diamond: 0
+  miningDamageBonus: 0
+  battleDamageBonus: 0
+  carotHealBonus: 0
+  bombDamagesReduction: 0
+  healthBonus: 0
+  lootKeepPercentageBonus: 0
+  torchGainBonus: 0
+  torchLifeBonus: 0
+  torchConsumeReductionBonus: 0
+  perkList:
+  - perkName: strongbunny1
+    unlocked: 0
+  - perkName: strongbunny2
+    unlocked: 0
+  - perkName: strongbunny3
+    unlocked: 0
+  - perkName: carrot
+    unlocked: 0
+  - perkName: bombshield1
+    unlocked: 0
+  - perkName: bombshield2
+    unlocked: 0
+  - perkName: pickaxe1
+    unlocked: 0
+  - perkName: pickaxe2
+    unlocked: 0
+  - perkName: pickaxe3
+    unlocked: 0
+  - perkName: sharpen1
+    unlocked: 0
+  - perkName: sharpen2
+    unlocked: 0
+  - perkName: torchlife1
+    unlocked: 0
+  - perkName: torchlife2
+    unlocked: 0
+  - perkName: torchlife3
+    unlocked: 0
+  - perkName: luckytorch1
+    unlocked: 0
+  - perkName: luckytorch2
+    unlocked: 0
+  - perkName: burglar1
+    unlocked: 0
+  - perkName: burglar2
+    unlocked: 0
